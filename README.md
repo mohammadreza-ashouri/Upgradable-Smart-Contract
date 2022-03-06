@@ -1,3 +1,3 @@
-# Sample Upgradable Smart Contract in Hardhat
+# Sample Upgradable Smart Contract in Hardhat with Openzeppelin upgradable
 
 
